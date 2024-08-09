@@ -12,9 +12,11 @@ https://zh-v2.d2l.ai/chapter_installation/index.html
 
 ## 运行效果
 
-![image-20240809165826269](.\README.assets\image-20240809165826269.png)
+![image-20240809165826269](README.assets/image-20240809165826269.png)
 
-![image-20240809165836869](.\README.assets\image-20240809165836869.png)
+
+
+![image-20240809165836869](README.assets/image-20240809165836869.png)
 
 
 
